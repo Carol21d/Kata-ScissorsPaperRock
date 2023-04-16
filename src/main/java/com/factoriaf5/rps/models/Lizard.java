@@ -1,10 +1,11 @@
 package com.factoriaf5.rps.models;
 
-public class Rock  extends Figure{
+public class Lizard  extends Figure{
+
     private String type;
 
-    public Rock() {
-        this.type = "Rock";
+    public Lizard(String type) {
+        this.type = type;
     }
 
     public String getType() {
@@ -14,14 +15,7 @@ public class Rock  extends Figure{
     public void setType(String type) {
         this.type = type;
     }
-
-
+     
     
-
-   
-
-    
-
-
     
 }

@@ -7,7 +7,11 @@ import org.junit.Test;
 public class RockTest {
     
     @Test
-    public void justASimpleTest() {
+    public void rock_is_rock() {
+        Rock rock = new Rock();
+        assertEquals("Rock",rock.getType());
         assertTrue(true);
+
+        
     }
 }

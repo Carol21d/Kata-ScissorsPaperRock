@@ -35,4 +35,5 @@ Just clone the Kata
     * spock vaporizes rock
     * rock crushes scissors
 
-2. Try implements Factory Method design pattern
+2. Try implements Factory Method design pattern# Kata-ScissorsPaperRock
+# kata-Paper-Sci-Rock
